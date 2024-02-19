@@ -1,6 +1,5 @@
 package ru.kpfu.itis.task1;
 
-//import org.springframework.web.client.RestTemplate;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Attribute;
